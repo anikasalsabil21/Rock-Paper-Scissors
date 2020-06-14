@@ -1,5 +1,5 @@
 """
-@ Clever Programmer
+@ Anika Salsabil
 Rock paper scissors
 """
 import random
